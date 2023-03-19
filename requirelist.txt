@@ -1,0 +1,5 @@
+trans
+// translate
+flask
+googletranslate
+python == 3.9
